@@ -1,0 +1,404 @@
+{
+    "lotsInformation": [
+        {
+            "avatar": "https://i.pinimg.com/originals/18/72/9c/18729ceeea87af05b3bf62ca12c9ebe9.jpg",
+            "lotName": "Кукуруза",
+            "playerName": "Иван",
+            "count": "5",
+            "price": "8",
+			"level": "3"
+        },
+		{
+            "avatar": "https://klike.net/uploads/posts/2019-03/1551511784_4.jpg",
+            "lotName": "Грибы",
+            "playerName": "Вася",
+            "count": "4",
+            "price": "7",
+			"level": "8"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://i.pinimg.com/originals/18/72/9c/18729ceeea87af05b3bf62ca12c9ebe9.jpg",
+            "lotName": "Кукуруза",
+            "playerName": "Иван",
+            "count": "5",
+            "price": "8",
+			"level": "3"
+        },
+		{
+            "avatar": "https://klike.net/uploads/posts/2019-03/1551511784_4.jpg",
+            "lotName": "Грибы",
+            "playerName": "Вася",
+            "count": "4",
+            "price": "7",
+			"level": "8"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://klike.net/uploads/posts/2019-03/1551511784_4.jpg",
+            "lotName": "Грибы",
+            "playerName": "Вася",
+            "count": "4",
+            "price": "7",
+			"level": "8"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://i.pinimg.com/originals/18/72/9c/18729ceeea87af05b3bf62ca12c9ebe9.jpg",
+            "lotName": "Кукуруза",
+            "playerName": "Иван",
+            "count": "5",
+            "price": "8",
+			"level": "3"
+        },
+		{
+            "avatar": "https://klike.net/uploads/posts/2019-03/1551511784_4.jpg",
+            "lotName": "Грибы",
+            "playerName": "Вася",
+            "count": "4",
+            "price": "7",
+			"level": "8"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://klike.net/uploads/posts/2019-03/1551511784_4.jpg",
+            "lotName": "Грибы",
+            "playerName": "Вася",
+            "count": "4",
+            "price": "7",
+			"level": "8"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://i.pinimg.com/originals/18/72/9c/18729ceeea87af05b3bf62ca12c9ebe9.jpg",
+            "lotName": "Кукуруза",
+            "playerName": "Иван",
+            "count": "5",
+            "price": "8",
+			"level": "3"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://klike.net/uploads/posts/2019-03/1551511784_4.jpg",
+            "lotName": "Грибы",
+            "playerName": "Вася",
+            "count": "4",
+            "price": "7",
+			"level": "8"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://i.pinimg.com/originals/18/72/9c/18729ceeea87af05b3bf62ca12c9ebe9.jpg",
+            "lotName": "Кукуруза",
+            "playerName": "Иван",
+            "count": "5",
+            "price": "8",
+			"level": "3"
+        },
+		{
+            "avatar": "https://klike.net/uploads/posts/2019-03/1551511784_4.jpg",
+            "lotName": "Грибы",
+            "playerName": "Вася",
+            "count": "4",
+            "price": "7",
+			"level": "8"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://klike.net/uploads/posts/2019-03/1551511784_4.jpg",
+            "lotName": "Грибы",
+            "playerName": "Вася",
+            "count": "4",
+            "price": "7",
+			"level": "8"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://download-cs.net/steam/avatars/3412.jpg",
+            "lotName": "Масло",
+            "playerName": "Петя",
+            "count": "3",
+            "price": "50",
+			"level": "5"
+        },
+		{
+            "avatar": "https://www.meme-arsenal.com/memes/be50e6ba99654b5455027dcc82beb5b3.jpg",
+            "lotName": "Пшеница",
+            "playerName": "Костя",
+            "count": "30",
+            "price": "150",
+			"level": "99"
+        },
+		{
+            "avatar": "https://i.pinimg.com/originals/18/72/9c/18729ceeea87af05b3bf62ca12c9ebe9.jpg",
+            "lotName": "Кукуруза",
+            "playerName": "Иван",
+            "count": "5",
+            "price": "8",
+			"level": "3"
+        }
+    ]
+}
